@@ -1,6 +1,4 @@
-### Olá, sou Paulo Roberto Ribeiro Fiori 👋
-
-Here are some ideas to get you started:
+Olá, sou Paulo Roberto Ribeiro Fiori 👋
 
 - 🔭 Atualmente estou desempregado
 - 🌱 Atualmente estou aprendendo a linguaguem Lua
