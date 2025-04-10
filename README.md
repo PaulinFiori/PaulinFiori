@@ -38,11 +38,8 @@ Desenvolvedor full stack apaixonado por criar soluções com impacto real.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulinfiori&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinfiori&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=paulinfiori&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulinfiori&theme=radical)
-
-![Snake animation](https://github.com/paulinfiori/paulinfiori/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
