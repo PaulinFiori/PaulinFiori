@@ -38,15 +38,17 @@ Desenvolvedor full stack apaixonado por criar soluções com impacto real.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulinfiori&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinfiori&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=paulinfiori&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=paulinfiori&theme=radical)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulinfiori&theme=radical)
+
+![Snake animation](https://github.com/paulinfiori/paulinfiori/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 #### 👤 Contato
-- Twitter: [@PauloFioriDev](https://twitter.com/PauloFioriDev)
-- YouTube: [Canal](https://www.youtube.com/channel/UCz3Dfrmzk1zU-p7F0lHsoMQ/featured)
-- Instagram: [@paulofiori20](https://www.instagram.com/paulofiori20)
+[![Twitter Badge](https://img.shields.io/badge/-@PauloFioriDev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PauloFioriDev)](https://twitter.com/PauloFioriDev)
+[![Instagram Badge](https://img.shields.io/badge/-@paulofiori20-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/paulofiori20)](https://www.instagram.com/paulofiori20)
 
 ---
 
