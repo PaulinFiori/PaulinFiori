@@ -45,6 +45,7 @@ Desenvolvedor full stack apaixonado por criar soluções com impacto real.
 
 #### 👤 Contato
 - Twitter: [@PauloFioriDev](https://twitter.com/PauloFioriDev)
+- YouTube: [Canal](https://www.youtube.com/channel/UCz3Dfrmzk1zU-p7F0lHsoMQ/featured)
 - Instagram: [@paulofiori20](https://www.instagram.com/paulofiori20)
 
 ---
